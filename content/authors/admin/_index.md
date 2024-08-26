@@ -59,7 +59,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: BA Economics
+  - area: BA in Economics
     institution: New Economic School
     date_start: 2017-09-01
     date_end: 2021-07-31
