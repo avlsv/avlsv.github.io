@@ -1,4 +1,4 @@
 ---
-title: "Papers"
-description: "Preprints and articles by Alexander Vlasov."
+title: "Research"
+description: "Preprints and research articles by Alexander Vlasov."
 ---
