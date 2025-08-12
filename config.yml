@@ -15,18 +15,18 @@ menu:
         - name: Papers
           url: papers/
           weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        # - name: Courses
+        #   url: courses/
+        #   weight: 3
+        # - name: Books
+        #   url: books/
+        #   weight: 5 
+        # - name: Data
+        #   url: data/
+        #   weight: 4 
+        # - name: Blog
+        #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        #   weight: 6
 
 
 params:
@@ -56,14 +56,14 @@ params:
     profileMode:
           enabled: true
           title: Alexander Vlasov
-          subtitle: "I am a PhD Student in New Economic School, NES, Moscow. I work on empirics of uncertainty and its influence on consumption decision. \\ \\ Mail: avlasov@nes.ru"
+          subtitle: "I am a PhD Student in New Economic School, NES, Moscow. I work on empirics of uncertainty and its influence on consumption decision. \ \ Mail: avlasov@nes.ru"
           imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
             - name: CV
               url: cv.pdf
-            - name: Papers
+            - name: Research
               url: papers/
             # - name: Data
             #   url: data/
