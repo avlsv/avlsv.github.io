@@ -19,8 +19,8 @@ menu:
           weight: 2
 
 params:
-    description: "This website hosts Alexander Vlasov's research papers, course materials, data, curriculum vitae, and contact information."
-    author: Alexander Vlasov
+    description: "This website hosts Alexander I. Vlasov's research papers, course materials, data, curriculum vitae, and contact information."
+    author: Alexander I. Vlasov
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -90,7 +90,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Alexander Vlasov"
       icon: favicon.ico
       iconHeight: 18
 
