@@ -12,8 +12,8 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: papers/
+        - name: Research
+          url: research/
           weight: 2
         # - name: Courses
         #   url: courses/
@@ -56,7 +56,7 @@ params:
     profileMode:
           enabled: true
           title: Alexander Vlasov
-          subtitle: "I am a PhD Student in New Economic School, NES, Moscow. I work on empirics of uncertainty and its influence on consumption decision.<br /><br /> Mail: avlasov@nes.ru"
+          subtitle: "I am a PhD Student in New Economic School, NES, Moscow. I work on empirics of uncertainty and its influence on consumption decision. <br /><br /> Mail: avlasov@nes.ru"
           imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
@@ -64,7 +64,7 @@ params:
             - name: CV
               url: cv.pdf
             - name: Research
-              url: papers/
+              url: research/
             # - name: Data
             #   url: data/
 
