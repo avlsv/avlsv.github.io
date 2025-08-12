@@ -56,7 +56,9 @@ params:
     profileMode:
           enabled: true
           title: Alexander Vlasov
-          subtitle: "I am a PhD Student in New Economic School, NES, Moscow. I work on empirics of uncertainty and its influence on consumption decision. \n Mail: avlasov@nes.ru"
+          subtitle: "I am a PhD Student in New Economic School, NES, Moscow. I work on empirics of uncertainty and its influence on consumption decision. \n \\ 
+          
+           Mail: avlasov@nes.ru"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
