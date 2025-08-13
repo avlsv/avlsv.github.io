@@ -18,9 +18,9 @@ menu:
         - name: Data
           url: data/
           weight: 3
-        - name: Search
-          url: search/
-          weight: 4
+        # - name: Search
+        #   url: search/
+        #   weight: 4
         # - name: Courses
         #   url: courses/
         #   weight: 3

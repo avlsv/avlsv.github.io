@@ -15,7 +15,9 @@ disableAnchoredHeadings: false
 
 ## Overview
 
-Using [sudrfscraper](https://github.com/tochno-st/sudrfscraper), scrapper of Russian court system, I have collected big ($> 150$ gb) database of records of decisions, that criminal courts of Russia have reached, starting from January 2008 (the start of a unified electronic database was around that time, but the coverage is sparse) to September 2023. Most of the database is text. If you are interested in its entirety, contact me via mail [avlasov@nes.ru](mailto:avlasov@nes.ru). 
+Using [sudrfscraper](https://github.com/tochno-st/sudrfscraper), scrapper of Russian court system, I have collected big ($> 150$ gb) database of records of decisions, that criminal courts of Russia have reached, starting from January 2008 (the start of a unified electronic database was around that time, but the coverage is sparse) to September 2023.
+
+Most of the database is text. If you are interested in its entirety, contact me via mail [avlasov@nes.ru](mailto:avlasov@nes.ru). 
 
 Since the database is large, I'm sharing a random samples of 30,000 records (if available) 2015-01-01 to 2022-01-01.  
 
@@ -33,6 +35,7 @@ It contains 5 csv files:
 + article_105.csv : 30,000 random court cases of murders (105th article of Russian criminal code, Статья 105 УК РФ)
 + article_159.csv : 30,000 random court cases of fraud (159 article of Russian criminal code, Статья 159 УК РФ)
 + article_228.csv : 30,000 random court cases of drug related crimes (228th article of Russian criminal code, Статья 228 УК РФ)
+
 
 ---
 
