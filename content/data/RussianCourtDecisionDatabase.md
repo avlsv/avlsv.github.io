@@ -15,11 +15,11 @@ disableAnchoredHeadings: false
 
 ## Overview
 
-Using [sudrfscraper](https://github.com/tochno-st/sudrfscraper), scrapper of Russian court system, I have collected big ($> 150$ gb) database of records of decisions, that criminal courts of Russia have reached, starting from January 2008 (the start of a unified electronic database was around that time, but the coverage is sparse) to September 2023.
+I used [sudrfscraper](https://github.com/tochno-st/sudrfscraper) (a scraper for the Russian court system) to compile a large database -- over 150 GB -- of criminal court decisions issued by Russian courts between **January 2008** (when a unified electronic database began, though its coverage was initially sparse) and **September 2023**.
 
-Most of the database is text. If you are interested in its entirety, contact me via mail [avlasov@nes.ru](mailto:avlasov@nes.ru). 
+The majority of the entries are **text-based** (i.e. full texts of courts decisions). If you’d like access to the complete dataset, please contact me at avlasov@nes.ru.
 
-Since the database is large, I'm sharing a random samples of 30,000 records (if available) 2015-01-01 to 2022-01-01.  
+Because of its size, I am sharing a random sample of up to 30,000 records, covering the period from **January 1, 2015**, to **January 1, 2022**.
 
 ---
 
