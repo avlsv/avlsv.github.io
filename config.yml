@@ -17,6 +17,10 @@ menu:
           weight: 2
         - name: Data
           url: data/
+          weight: 3
+        - name: Search
+          url: search/
+          weight: 4
         # - name: Courses
         #   url: courses/
         #   weight: 3
@@ -46,7 +50,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["research", "data","courses"]
+    MainSections: ["research", "data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -66,8 +70,8 @@ params:
               url: cv.pdf
             - name: Research
               url: research/
-            # - name: Data
-            #   url: data/
+            - name: Data
+              url: data/
 
 
 
