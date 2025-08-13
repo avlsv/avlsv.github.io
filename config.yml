@@ -27,8 +27,6 @@ menu:
         # - name: Books
         #   url: books/
         #   weight: 5 
- 
-        #   weight: 4 
         # - name: Blog
         #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
         #   weight: 6
