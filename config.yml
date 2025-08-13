@@ -15,14 +15,15 @@ menu:
         - name: Research
           url: research/
           weight: 2
+        - name: Data
+          url: data/
         # - name: Courses
         #   url: courses/
         #   weight: 3
         # - name: Books
         #   url: books/
         #   weight: 5 
-        # - name: Data
-        #   url: data/
+ 
         #   weight: 4 
         # - name: Blog
         #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
