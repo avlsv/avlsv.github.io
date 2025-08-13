@@ -1,6 +1,6 @@
 ---
 title: "Database of Russian Courts Decisions" 
-date: 2024-11-01
+date: 2023-11-01
 tags: ["courts", "law"]
 author: ["Alexander Vlasov"]
 description: "This dataset contains all available records of decisions of Russian criminal courts from 2008 to 2022."
