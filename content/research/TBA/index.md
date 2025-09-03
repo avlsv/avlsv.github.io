@@ -5,7 +5,7 @@ tags: []
 author: [Alexander Vlasov]
 description: "" 
 cover:
-    image: "paper1.png"
+    image: ""
     alt: "TBA"
     relative: true
 editPost:
