@@ -9,7 +9,7 @@ cover:
     alt: "TBA"
     relative: true
 editPost:
-    URL: ""
+    URL: "TBA"
     Text: "TBA"
 
 ---
