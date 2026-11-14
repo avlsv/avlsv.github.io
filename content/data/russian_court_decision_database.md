@@ -44,6 +44,13 @@ It contains 5 csv files:
 Data was collected using [sudrfscraper](https://github.com/tochno-st/sudrfscraper) and **a lot** of time.
 
 ---
+
+## Full dataset 
+
+Full dataset is available in [YandexDisk](https://disk.yandex.ru/d/-PZqTAFYnzwtUA).
+
+---
+
 <!-- 
 ## Using data with Python
 
