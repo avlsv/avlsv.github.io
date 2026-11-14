@@ -1,6 +1,6 @@
 ---
 title: "Monetary Policy Surprises for Russia (BRW)"
-date: 2026-11-15
+date: 2026-11-14
 tags: ["monetary policy", "Bank of Russia", "yield curve"]
 author: ["Alexander Vlasov"]
 description: "Monthly series of Bank of Russia monetary policy surprises identified with the Bu, Rogers and Wu (2021) method from the Russian government bond yield curve, February 2014 to November 2026."
